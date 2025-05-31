@@ -1,1 +1,15 @@
 /* write your override styles here */
+#wall {
+    width: 970px;
+    height: 620px;
+    border: 14px solid white;
+    border-bottom: 62px solid white;
+    margin: 38px auto;
+    -moz-box-shadow: 16px 16px 48px gray, -16px -16px 48px lime;
+    -webkit-box-shadow: 16px 16px 48px gray, -16px -16px 48px lime;
+    box-shadow: 16px 16px 48px gray, -16px -16px 48px lime;
+}
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    width: 970px;
+    height: 620px;
+}
